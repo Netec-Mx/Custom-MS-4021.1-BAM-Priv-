@@ -11,7 +11,7 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Experienc
 
 La capacitación tiene una duración total de 2 horas e incluye nueve actividades prácticas, con una duración acumulada de 100 minutos.
 
-Antes de comenzar, revisa la [guía de preparación del entorno](./SETUP_GUIDE.html) para configurar las aplicaciones, verificar los agentes y disponer de los recursos necesarios.
+Antes de comenzar, revisa la [guía de preparación del entorno](SETUP_GUIDE.md) para configurar las aplicaciones, verificar los agentes y disponer de los recursos necesarios.
 
 ## Lista de laboratorios
 
