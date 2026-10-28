@@ -83,7 +83,7 @@ Esta actividad necesita mensajes reales en el buzón de prueba para que Copilot 
    - [03_Hilo_comite.eml](./recursos/Correos/03_Hilo_comite.eml)
    - [04_Accion_continuidad.eml](./recursos/Correos/04_Accion_continuidad.eml)
 2. En nuevo Outlook para Windows, abra Configuración > Archivos > Importar > Iniciar importación (algunas versiones muestran Configuración > General > Importar). Seleccione la carpeta `Correos-Horizonte`, la cuenta de laboratorio y una carpeta de correo creada para el ejercicio, por ejemplo `LAB-Horizonte`.
-3. Verifique que aparecen tres mensajes con el asunto «Decisión Q4 | Canal Digital | Comité Directivo» y un cuarto con asunto «Acción necesaria | Continuidad del servicio y respaldo». Si el cliente no los agrupa en un solo hilo, consulte primero cada mensaje; la agrupación depende de los metadatos y ajustes de Outlook.
+3. Verifique que aparecen tres mensajes con el asunto «Decisión Q4 - Canal Digital - Comité Directivo» y un cuarto con asunto «Acción necesaria - Continuidad del servicio y respaldo». Si el cliente no los agrupa en un solo hilo, consulte primero cada mensaje; la agrupación depende de los metadatos y ajustes de Outlook.
 4. Para probar el resumen de conversación, confirme que Outlook con Copilot puede acceder a los mensajes importados. La indexación de Exchange puede requerir tiempo. Si no se muestran o Copilot no los recupera, el tenant debe ofrecer un buzón de laboratorio con un hilo equivalente enviado y recibido normalmente; un archivo `.eml` abierto localmente no reemplaza mensajes indexados en el buzón.
 5. No envíe respuestas reales a las direcciones de ejemplo contenidas en los correos. Mantenga cualquier borrador sin enviar o utilice una cuenta de pruebas de la organización expresamente autorizada.
 
